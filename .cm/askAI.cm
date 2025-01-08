@@ -4,9 +4,6 @@
 manifest:
   version: 1.0
 
-manifest:
-  version: 1.0
-
 triggers:
   on:
     - commit
